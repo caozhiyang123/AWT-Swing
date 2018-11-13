@@ -7,3 +7,5 @@ DrawData/lib
 DrawData/*.class
 DrawData/*.iml
 DrawData/target
+*.classpath
+*.project
