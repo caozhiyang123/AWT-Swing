@@ -76,7 +76,6 @@ public class DemoCardLayout extends Frame implements ActionListener
 	// ----test---- 
 	public void a(){}
 	public void b(){}
-	public void c(){}
 	// ----test----
 
 }
