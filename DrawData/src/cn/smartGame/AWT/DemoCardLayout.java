@@ -72,5 +72,7 @@ public class DemoCardLayout extends Frame implements ActionListener
 		DrawRTPLine.start();
 		DemoCardLayout demoCardLayout = new DemoCardLayout();
 	}
+	
+	public void a(){}
 
 }
